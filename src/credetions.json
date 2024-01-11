@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-agenda-410723",
+  "private_key_id": "b8da460d3cc51cc9fefb5e286f5bc981a4539d56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3Dg3tHFDa5XBd\nW2TiHqaP7dXbQ+Mb5KV50+honqZFOc2RtpjjL3fGGEy0Ew+w6ig1+19rcxsOoZoj\nGj6U1HfyImywe7W1SkaRRc25Fvj7P6O3JfB23gkk6a1Waouf6YjuTNzXxMk2usIR\nPHb4ePl/vCb5SSap9O2KbRbEpaRqRBcFPhVnibTVUDPi+pVRp7grzPfAHNvSlX6L\nCxFIGDYicqvSl/z4UGa+NBCVO03gCD8NcGVzh8BUDdmUCXo57ZhXkR5bHEk+by1l\nxYJwvYajsRY7uyrCRNkgcC02rB2MlMJvBGNpS9pux5VEVsjXY/474eh9l7z7LOPE\nbrdC3WLvAgMBAAECggEABnWqgXmEU5Umd++SXyBcbwEiO3s+d8Iud17GTsV6ceru\nRCbAvROfExB8dHD6bBsh5ssYvOlHmnvoEou0ivqhw5uktj2cqz8Uamqfgy6PrrNk\n4ED90VQDLUL0aPOYOxZkofQjFEIkz5ebjZF9U/Crl+8DI7zfGRREOvmf2g9LqVbv\noE6+mXvHBM8YEzIjkJPLo3XCbc6TypWOV5ztyYZRlZFmMw2T9jcPwou7hl+DhzFa\nMNxHwFCY0jE061UYcLDqXEr23Syr7l+xhEFPRCiB3jZlVDi/wifxQlji+nfepxCy\nuSDograDxMGLGl7kDGJBljl7H+OI7pdHM4tTdspMMQKBgQD+1REOXn1Bgurydp0Z\nyR1kYUasEQ+i+fB9ka5jc7R0uNrbsqXr0WwBV/U1+im1v994hdj8Q4FboQ8PlNPb\nN9bPXBPeO97YUvWSZzzOONe2c0YEek7XLDKRUArrVt4sOWEmT4CotdC3G2JnXF9U\nPlMmQD5D2xOZdSrxdQrAjXTX1QKBgQC35MnkZkkhHxgwH3IPthHeGCa90jcJC5AE\nUCdRF0+1LL/pBJd67NlBbh/HHJ06ZlDqTCIUn++JziY4juO7cYTrrjmsJQwrlT+d\nEPcoEF4sIjhZH0iceIMbNXsHNCI95WP4UGictTZhUl1Md6YovdtFS8/Fi0VlCnLz\nseyY054VswKBgQD2qa6Uxglf/CUHBKEUcIMuwqnxq6IDEwMhyH2QblLiGHxf5BCO\nrmto8Ya89KSi9FKPCp/5ri3sT32Qi3J14xreJDZnCnSt1780MxG8W3ERfYrskqb1\nyCY6Wcv3+GGdVP0gZBwZMcQROUSK3/K2TI2XnN+oNspF5A/pIG2D7GiI8QKBgQCH\n/ZBz8FRqQwVvKQH/rmQeOvwDaj662KsjFWdN55BRagtttbCT/i1X3qlvZLC9LEbw\nTWbym6fX3/SR5NFyn6ttYsVRkYAjhtapP4+XOCt8Nb434hOfatuBtpYJqLsdzNKW\nIliKctQJOpC2aNEe1fAemcbHzot+AjEqGEzgY7ZHUwKBgEXzz0o3NXV/07uXiNNX\nwuNRQdVYo91ctVkBvpV9g01Qs8LXNO+lfQlWTiZGXm95Ip4sR1h5YQUdbmO6AXdW\n+vkCGhldY+Kcsi5PKvcwz4ykMpnzQO/GZVyb4ZWg1xDP6w+ttcXeSTx4tV9vQjfs\nACnTagdq+ahnzxyEwiUwSF1m\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-agenda@my-agenda-410723.iam.gserviceaccount.com",
+  "client_id": "110142063700190732306",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-agenda%40my-agenda-410723.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
